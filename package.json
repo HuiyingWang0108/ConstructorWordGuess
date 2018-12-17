@@ -1,0 +1,24 @@
+{
+  "name": "ConstructorWordGuess",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuiyingWang0108/ConstructorWordGuess.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuiyingWang0108/ConstructorWordGuess/issues"
+  },
+  "homepage": "https://github.com/HuiyingWang0108/ConstructorWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.1",
+    "random-words": "^1.1.0"
+  }
+}
