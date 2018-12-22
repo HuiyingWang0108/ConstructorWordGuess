@@ -20,7 +20,7 @@ function ask(){
             message: "Guess a letter"
         }
     ]).then( function(response){
-        // console.log(JSON.stringify(response,null,2));
+        // console.log(JSON.stringify(response,0=-null,2));
         guess(response.letter);
         if(!game_over){
             ask();
